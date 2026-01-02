@@ -11,6 +11,7 @@ Swagger UI: http://127.0.0.1:8000/docs
 - Python
 - FastAPI
 - JWT Authentication
+- MongoDB
 ### ▶️ How to Run
 1. pip install -r requirements.txt
 2. uvicorn main:app --reload
